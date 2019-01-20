@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LXF-JavaTutorial.iml" filepath="$PROJECT_DIR$/LXF-JavaTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/命令行参数/命令行参数.iml" filepath="$PROJECT_DIR$/命令行参数/命令行参数.iml" />
+      <module fileurl="file://$PROJECT_DIR$/多维数组/多维数组.iml" filepath="$PROJECT_DIR$/多维数组/多维数组.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数组排序/数组排序.iml" filepath="$PROJECT_DIR$/数组排序/数组排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/遍历数组/遍历数组.iml" filepath="$PROJECT_DIR$/遍历数组/遍历数组.iml" />
+    </modules>
+  </component>
+</project>
